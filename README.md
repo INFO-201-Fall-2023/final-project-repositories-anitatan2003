@@ -41,14 +41,17 @@ This map takes into account disabilities as well as other language and cultural 
 
 Finding Data - need two datasets to start from two different sources! Describe datasets with questions provided
 
-Students and computers - 9789264239555-en.pdf (oecd-ilibrary.org) (book pdf which includes datasets)
-Where did you download the data (e.g., a web URL)?
-How was the data collected or generated? Make sure to explain who collected the data (not necessarily the same people that host the data), and who or what the data is about?
-How many observations (rows) are in your data?
-How many features (columns) are in the data?
+1. Students and computers - https://www.oecd-ilibrary.org/snapshot-of-the-relation-between-computer-use-at-school-and-performance-in-computer-based-assessments_5jrw5q6fj8ns.xls?itemId=%2Fcontent%2Fcomponent%2F9789264239555-table6-en&mimeType=vnd.ms-excel  (book pdf which includes datasets)  
+
+Where did you download the data (e.g., a web URL)? 9789264239555-en.pdf (oecd-ilibrary.org)
+The data was collected by the Organization for Economic Cooperation and Development. The source includes data on whether access to information and technology affects student learning.
+How many observations (rows) are in your data? 30
+How many features (columns) are in the data? 6
 
 
-Students Perceptions Of AI in Education
+
+
+2. Students Perceptions Of AI in Education
 https://www.kaggle.com/datasets/gianinamariapetrascu/survey-on-students-perceptions-of-ai-in-education 
 Where did you download the data (e.g., a web URL)? https://www.kaggle.com/datasets/gianinamariapetrascu/survey-on-students-perceptions-of-ai-in-education 
 How was the data collected or generated? = The data was downloaded from a site named “Kaggle”. The data in the research presented was collected through an online survey conducted in social media groups and was conducted by a student. The survey aimed to gather information on the thoughts of undergraduate students enrolled in the 2nd and 3rd year of study at the Faculty of Cybernetics, Statistics, and Economic Informatics and whether or not they believe artificial intelligence impacts education
