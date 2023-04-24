@@ -1,7 +1,6 @@
 # final-project-repositories-anitatan2003
 final-project-repositories-anitatan2003 created by GitHub Classroom
 
-
 Info 201 Project Proposal by Taise Nish, Valeria Fierro, & Anita Tan
 Education & Technology
 
@@ -18,23 +17,23 @@ Word Count = 547
 
 Background Research & Inspo - Need at least 5 sources (articles, blogs, interactive visualizations)
 
-Technology’s impact on learning -  New global data reveal education technology’s impact on learning | McKinsey
+Technology’s impact on learning -  New global data reveal education technology’s impact on learning | McKinsey https://www.mckinsey.com/industries/education/our-insights/new-global-data-reveal-education-technologys-impact-on-learning
 This article communicates technology’s relation with student outcomes in school through visuals and graphs. This was an inspiration for our project because we were able to visually see that technology has an effect on education. 
 We also wanted to show through our project how the lack of technology can negatively impact someone’s academic performance/outcomes. This source was an inspiration as it  also compares technology use in education by region and demographics (some are more developed than others).
 
-Covid-19 pandemic’s effect on education inequality - How COVID taught America about inequity in education – Harvard Gazette
+Covid-19 pandemic’s effect on education inequality - How COVID taught America about inequity in education – Harvard Gazette https://news.harvard.edu/gazette/story/2021/07/how-covid-taught-america-about-inequity-in-education/
 This article highlights the disparities in education when it comes to technological resources and accessibility, these were more evident during the Covid-19 pandemic. Similarly, in our project, we will discuss how inequalities in education are highlighted with the use and need for technology. 
 The article mentions how technology is essential in our society nowadays. This influenced our project because we decided to narrow down our topic from education to technology’s effects on education.
 
-Achievement gap based on demographics (2019) - Comparing racial and ethnic gaps in the U.S. | Pew Research Center
+Achievement gap based on demographics (2019) - Comparing racial and ethnic gaps in the U.S. | Pew Research Center https://www.pewresearch.org/interactives/racial-and-ethnic-gaps-in-the-u-s-persist-on-key-demographic-indicators/
 This is an interactive map comparing achievement differences between different demographic groups. We took inspiration from this as it highlights the relation between poverty and education. 
 While this source focuses on the achievement gap very broadly, our project will focus on education and socioeconomic gaps and their relations to technology access. 
 
-Digital literacy in education - Advancing Digital Literacy for a Digitally Inclusive Future | EdSurge News
+Digital literacy in education - Advancing Digital Literacy for a Digitally Inclusive Future | EdSurge News https://www.edsurge.com/news/2023-03-29-advancing-digital-literacy-for-a-digitally-inclusive-future
 This article describes the importance of digital literacy in the education system. In our project we will highlight digital	literacy as it is an important part of inequalities and differences in opportunity in the education system.
 The article also mentions strategies for teaching kids in school digital literacy, our project will discuss how not every community has access to this kind of education and how this creates bigger challenges later in life. 
 
-Digital Equity Act - Mapping Digital Equity in Every State (census.gov)
+Digital Equity Act - Mapping Digital Equity in Every State (census.gov) https://www.census.gov/library/stories/2022/05/mapping-digital-equity-in-every-state.html
 This interactive map by the U.S census bureau highlights intersectionalities and barriers that prevent people from digital literacy. This inspired our project because it shows the complexity of learning.
 This map takes into account disabilities as well as other language and cultural barriers that might make it difficult for someone to gain full digital literacy. Our project will highlight how inclusivity is important to avoid inequalities in the education system and academic technology use as well as this source does. 
 
@@ -43,15 +42,15 @@ Finding Data - need two datasets to start from two different sources! Describe d
 
 1. Students and computers - https://www.oecd-ilibrary.org/snapshot-of-the-relation-between-computer-use-at-school-and-performance-in-computer-based-assessments_5jrw5q6fj8ns.xls?itemId=%2Fcontent%2Fcomponent%2F9789264239555-table6-en&mimeType=vnd.ms-excel  (book pdf which includes datasets)  
 
--Where did you download the data (e.g., a web URL)? 9789264239555-en.pdf (oecd-ilibrary.org)
--The data was collected by the Organization for Economic Cooperation and Development. The source includes data on whether access to information and -technology affects student learning.
--How many observations (rows) are in your data? 30
--How many features (columns) are in the data? 6
+-Where did you download the data (e.g., a web URL)? =  [9789264239555-en.pdf (oecd-ilibrary.org)](https://www.oecd-ilibrary.org/docserver/9789264239555-en.pdf?expires=1682302828&id=id&accname=guest&checksum=33F61F71E6E50582821E5A8737641287) 
+-How was the data collected or generated? = The data was collected by the Organization for Economic Cooperation and Development. The source includes data on whether access to information and -technology affects student learning.
+-How many observations (rows) are in your data? = 30
+-How many features (columns) are in the data? = 6
 
 2. Students Perceptions Of AI in Education
 
--Where did you download the data (e.g., a web URL)? https://www.kaggle.com/datasets/gianinamariapetrascu/survey-on-students-perceptions-of-ai-in-education
--The data was downloaded from a site named “Kaggle”. The data in the research presented was collected through an online survey conducted in social media groups and was conducted by a student. The survey aimed to gather information on the thoughts of undergraduate students enrolled in the 2nd and 3rd year of study at the Faculty of Cybernetics, Statistics, and Economic Informatics and whether or not they believe artificial intelligence impacts education
+-Where did you download the data (e.g., a web URL)? = https://www.kaggle.com/datasets/gianinamariapetrascu/survey-on-students-perceptions-of-ai-in-education
+-How was the data collected or generated? = The data was downloaded from a site named “Kaggle”. The data in the research presented was collected through an online survey conducted in social media groups and was conducted by a student. The survey aimed to gather information on the thoughts of undergraduate students enrolled in the 2nd and 3rd year of study at the Faculty of Cybernetics, Statistics, and Economic Informatics and whether or not they believe artificial intelligence impacts education
 -How many observations (rows) are in your data? = 91
 -How many features (columns) are in the data? =  35
 
