@@ -15,7 +15,6 @@ Story Pitch - Describe the story you’re trying to tell  (~ 500 words).
 	Furthermore, with new artificial intelligence advancements, some concerns might arise that could lead students to rely on AI excessively, which will significantly affect their learning. Just like any other technology, AI can also negatively impact marginalized communities and reinforce existing inequalities as AI is mostly only accessible to privileged students with access to the internet and technologies. Artificial Intelligence can be a great resource and act as an academic advantage for one group of students, while causing an adverse effect on the rest. 
 	Technology use for educational purposes is overall a highly relevant topic, especially nowadays as we live in a world that is technologically dependent. It is also an important discussion because of the way it shapes our educational system and impacts students from diverse backgrounds. Technology in education highlights the need to address inequalities in accessibility and resources for all students, regardless of their situation or demographic. 
 
-Word Count: 547
 
 
 Background Research & Inspo - Need at least 5 sources (articles, blogs, interactive visualizations)
