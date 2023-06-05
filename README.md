@@ -75,6 +75,7 @@ SNAP Is Linked with Improved Nutritional Outcomes and Lower Health Care Costs | 
 US Health Map | Institute for Health Metrics and Evaluation (healthdata.org): Explore health trends in the US at the county level between 2000 and 2019 for life expectancy by race and ethnicity and mortality by race and ethnicity
 
 Frontiers | How Do Housing Prices Affect Residents' Health? New Evidence From China (frontiersin.org):This paper aims to explore the effect and mechanism of rising housing prices on residents' physical and mental health. Using data from the China Family Panel Studies from 2014 to 2018, we investigate the impact and mechanism of rising housing prices on the mental and physical health of urban residents through multiple grouping regression and analysis of variance. 
+
 US GDP over time (usafacts.org): Observing GDP can tell how the economy is doing. A growing GDP implies an improving economy. This website provides plots for the changes in US GDP.
 
 
