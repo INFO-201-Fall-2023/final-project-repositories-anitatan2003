@@ -36,12 +36,13 @@ df <- df[, c(-5, -6)]
 #create categorical column of place 
 df <- mutate(df, Place = "United States")
 
+
 #Summary data frame
 #1984-2000
 fhalf <- df[df$Fiscal.Year >= 1984 & df$Fiscal.Year <= 2000,]
-df$Average.Participation <- as.numeric(gsub(",", "", df$Average.Participation))
+df$Average.Participation <- as.integer(gsub(",", "", df$Average.Participation))
 
-fhalf <- summarise (fhalf, snap = sum(Average.Participation), benefitper = sum(Average.Benefit.Per.Person), 
+fhalf <- summarise (fhalf, snap = sum(df$Average.Participation), benefitper = sum(Average.Benefit.Per.Person), 
                     houseVal = sum(MEHOINUSA646N), avgpop = sum(totalPopulation), 
                     avgcerealprod = sum(cerealProduction), gdp = sum(GDP_PC),
                     lifexpect = sum (lifeExpectancy))
@@ -70,8 +71,21 @@ summarydf <- data.frame(YearRange, avgsnap, avgSnapBenefitPerPerson,
                         avgMedianHouseVal, avgPop, avgCerealProduct,
                         avgGDP, avgLifeExpectancy)
 
-  
-#export df
-write.csv(df, file = "finalDataset.csv", row.names = FALSE)
+df
+colnames(df) <- c("Year",
+                  "AVG SNAP Participation",
+                  "AVG SNAP Benefit per Person",
+                  "Total SNAP Benefits",
+                  "Median Household Value",
+                  "Population",
+                  "Cereal Production",
+                  "GDP_PC",
+                  "Life Expectancy",
+                  "Place")
+
+# Write the modified data frame back to a CSV file
+write.csv(df, "finalDataset2.csv")
+
+
 
 
