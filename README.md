@@ -1,5 +1,5 @@
 
-final-project-repositories-anitatan2003 created by GitHub Classroom
+Published Shiny App: https://anitatan.shinyapps.io/final_project/ 
 
 Info 201 Project Proposal by Taise Nish, Valeria Fierro, & Anita Tan
 Quality of Life in the US
